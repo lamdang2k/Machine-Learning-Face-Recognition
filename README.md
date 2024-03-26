@@ -41,7 +41,7 @@ The two following notebooks contain the implementation of a face detector that c
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License.
+Distributed under the BSD 3-Clause License.
 
 <!-- CONTACT -->
 ## Authors
